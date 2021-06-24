@@ -15,7 +15,7 @@ using System.Configuration;
 
 namespace TestTaskSTOUN {
     public partial class Form1 : Form {
-        string conString = ConfigurationManager.ConnectionStrings["conString"].ConnectionString;
+        string conString = ConfigurationManager.ConnectionStrings["conString"].ConnectionString; // строка подключения к базе данных
         public Form1() {
             InitializeComponent();
             ToFillListCurrency();
