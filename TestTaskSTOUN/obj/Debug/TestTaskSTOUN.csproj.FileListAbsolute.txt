@@ -1,0 +1,9 @@
+C:\Programming\C#\Проект для СТОУН\TestTaskSTOUN\bin\Debug\TestTaskSTOUN.exe.config
+C:\Programming\C#\Проект для СТОУН\TestTaskSTOUN\bin\Debug\TestTaskSTOUN.exe
+C:\Programming\C#\Проект для СТОУН\TestTaskSTOUN\bin\Debug\TestTaskSTOUN.pdb
+C:\Programming\C#\Проект для СТОУН\TestTaskSTOUN\obj\Debug\TestTaskSTOUN.csprojResolveAssemblyReference.cache
+C:\Programming\C#\Проект для СТОУН\TestTaskSTOUN\obj\Debug\TestTaskSTOUN.Form1.resources
+C:\Programming\C#\Проект для СТОУН\TestTaskSTOUN\obj\Debug\TestTaskSTOUN.Properties.Resources.resources
+C:\Programming\C#\Проект для СТОУН\TestTaskSTOUN\obj\Debug\TestTaskSTOUN.csproj.GenerateResource.Cache
+C:\Programming\C#\Проект для СТОУН\TestTaskSTOUN\obj\Debug\TestTaskSTOUN.exe
+C:\Programming\C#\Проект для СТОУН\TestTaskSTOUN\obj\Debug\TestTaskSTOUN.pdb
